@@ -51,6 +51,10 @@ export const plugins: Plugin[] = [
     {
         name: "EcoQuests",
         image: "https://i.imgur.com/kcRIdiY.png"
+    },
+    {
+        name: "EcoScrolls",
+        image: "https://i.imgur.com/1jNxdeM.png"
     }
 ]
 
